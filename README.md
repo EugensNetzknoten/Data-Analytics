@@ -36,16 +36,16 @@ Der Geldgeber erhält einen Zins für die Geldleihe
 
 ## CRISP DM: Data Understanding
 
-- funded_amount ... mit Ablauf der "Crowding"zeit erhaltener Betrag/ ausgezahlter Betrag in USD
-- loan_amount ... Zielbetrag (Betrag dem man für das Projekt erreichen wollte) in USD
-- activity ... Unterkategory zu dem das Ziel des Crowdprojektes thematisch gehört
-- sector ... Oberkategory in den das Crowdprojektes Thema fällt
-- use ... Kurzbeschreibung wofür das Geld verwendet werden soll
-- country_code ... Ländercode nach ISO Norm
-- country ... Ländername nach ISO Norm
-- region ... Region
-- currency ... Währung in den der funded_amount dann ausgezahlt wurde
-- term in months ... Dauer über die der Kredit ausgezahlt werden soll
-- lender_count ...Darlehensgeber (also wieviele Personen Geld für das Projekt gegeben haben)
-- borrower_genders ... Geschlecht und Anzahl der Darlehensnehmer, also diejenigen die das Crowdprojekt initiiert haben       
-- repayment interval ... vertraglich vereinbarte Rückzahlungsmodalitäten/-rhythmus
+* funded_amount ... mit Ablauf der "Crowding"zeit erhaltener Betrag/ ausgezahlter Betrag in USD
+* loan_amount ... Zielbetrag (Betrag dem man für das Projekt erreichen wollte) in USD
+* activity ... Unterkategory zu dem das Ziel des Crowdprojektes thematisch gehört
+* sector ... Oberkategory in den das Crowdprojektes Thema fällt
+* use ... Kurzbeschreibung wofür das Geld verwendet werden soll
+* country_code ... Ländercode nach ISO Norm
+* country ... Ländername nach ISO Norm
+* region ... Region
+* currency ... Währung in den der funded_amount dann ausgezahlt wurde
+* term in months ... Dauer über die der Kredit ausgezahlt werden soll
+* lender_count ...Darlehensgeber (also wieviele Personen Geld für das Projekt gegeben haben)
+* borrower_genders ... Geschlecht und Anzahl der Darlehensnehmer, also diejenigen die das Crowdprojekt initiiert haben       
+* repayment interval ... vertraglich vereinbarte Rückzahlungsmodalitäten/-rhythmus
