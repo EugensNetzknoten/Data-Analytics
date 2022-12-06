@@ -47,3 +47,10 @@ Der Geldgeber erhält einen Zins für die Geldleihe
 * lender_count ...Darlehensgeber (also wieviele Personen Geld für das Projekt gegeben haben)
 * borrower_genders ... Geschlecht und Anzahl der Darlehensnehmer, also diejenigen die das Crowdprojekt initiiert haben       
 * repayment interval ... vertraglich vereinbarte Rückzahlungsmodalitäten/-rhythmus
+
+# To-Do
+
+* Extremwerte, Aussreisser
+* Speicherplatzoptimierung
+* in der Beschreibung -> Balken und SäulenDiagramm korregieren
+* [borrower_gender] genauer analysieren
